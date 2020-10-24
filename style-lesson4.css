@@ -1,0 +1,43 @@
+#black_big {
+    background: black;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.orange {
+    background: rgb(228, 130, 61);
+    height: 40px;
+    width: 500px;
+}
+
+.black {
+    background: black;
+    height: 420px;
+    width: 125px;
+}
+
+.red {
+    background: rgb(212, 0, 0);
+    height: 420px;
+    width: 125px;
+}
+
+.green {
+    background: rgb(20, 114, 20);
+    height: 420px;
+    width: 125px;
+}
+
+.blue {
+    background: rgb(63, 131, 177);
+    height: 420px;
+    width: 125px;
+}
+
+.orange_second {
+    background: rgb(228, 130, 61);
+    height: 40px;
+    width: 500px;
+}
