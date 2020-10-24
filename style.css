@@ -1,0 +1,47 @@
+.text-style-a {
+    background-color: rgb(90, 138, 139);
+    padding: 75px;
+}
+
+.text-style-b {
+    text-align: center;
+    background-color: rgb(118, 126, 126);
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    border-radius: 2%;
+    margin: 10px;
+}
+
+#my-p {
+    color: red;
+}
+
+.my-div {
+    display: inline-block;
+    background-color: #5dc4c4;
+    border: 1px solid yellow;
+    border-radius: 15%;
+    margin: 20px;
+    padding: 5px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Kinnari;
+}
+
+li {
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.in-line {
+    display: inline-block;
+    padding: 5px;
+    background-color: aquamarine;
+}
